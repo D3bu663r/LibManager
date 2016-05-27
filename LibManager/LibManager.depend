@@ -8,6 +8,7 @@
 	<unistd.h>
 	<ncurses.h>
 
+<<<<<<< HEAD
 1464386346 source:/home/rafael/Documentos/Estudos/Linguagem C_C++/Apredendo/LibManager/LibManager.c
 	<stdlib.h>
 	<string.h>
@@ -17,3 +18,5 @@
 	<unistd.h>
 	<ncurses.h>
 
+=======
+>>>>>>> a25651d7ad4b7dcf29eb2ecd28a06e797a080151
