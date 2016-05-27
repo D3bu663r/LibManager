@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1447907596 source:/home/rafael/Documentos/LibManager/LibManager.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdarg.h>
+	<unistd.h>
+	<ncurses.h>
+
+1464386346 source:/home/rafael/Documentos/Estudos/Linguagem C_C++/Apredendo/LibManager/LibManager.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdarg.h>
+	<unistd.h>
+	<ncurses.h>
+
