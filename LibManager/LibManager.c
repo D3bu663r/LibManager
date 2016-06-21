@@ -8,10 +8,7 @@
 *                                                            *
 * LibManager.c                                               *
 *                                                            *
-<<<<<<< HEAD
-=======
 * Frederico, Guilherme, Matheus, Rafael, Ramon. - jul/15     *
->>>>>>> a25651d7ad4b7dcf29eb2ecd28a06e797a080151
 *************************************************************/
 
 #include <stdlib.h>
